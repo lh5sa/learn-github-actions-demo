@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/learn-github-actions-demo/",
+  base: "/",
   title: "Learn Github Actions Demo",
   description: "A VitePress Site",
   themeConfig: {
